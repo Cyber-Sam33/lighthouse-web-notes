@@ -7,4 +7,8 @@ This repository contains notes taken by [Sammi](https://github.com/Cyber-Sam33) 
 ### Table of Contents
 
 - [WEEK 1](/Week_1/)
-  - [DAY 1](/Week_1/Day_1/)
+  - [DAY 1](/Week_1/
+  
+  Day_1/)
+    /Users/sammiissa/lighthouse/lighthouse-web-notes/Week_1/Day_1/What_Should_I_Do_for_Lunch_Tips.md
+
